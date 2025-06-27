@@ -148,6 +148,5 @@ Link to sample outputs stored in Google Drive:
 
 ---
 
-## 📧 Contact
-
-Developed by **Gokulnath G**  
+## Acknowledgement
+This project is a part of a hackathon run by Katomaran [https://katomaran.com]
