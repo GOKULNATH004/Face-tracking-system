@@ -1,0 +1,8 @@
+{
+  "frame_skip": 9,
+  "similarity_threshold": 0.7,
+  "log_dir": "logs",
+  "embedding_dir": "embedding",
+  "db_path": "database/face_events.db",
+  "video_path": "D:/Test Videos/Video Datasets/video_sample1.mp4"
+}

@@ -1,0 +1,44 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore logs and temporary files
+logs/
+*.log
+
+# Ignore face embeddings and counters
+embedding/
+face_id_counter.txt
+
+# Ignore SQLite database
+database/
+*.db
+
+# Ignore model weights (if not needed in repo)
+model/
+*.pt
+
+# Ignore any generated media or snapshots
+*.jpg
+*.png
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore CSV or export files (optional)
+*.csv
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore video representations (optional)
+Video representation/
+video_link.txt

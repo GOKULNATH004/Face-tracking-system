@@ -1,0 +1,38 @@
+# Folders to ignore
+venv/
+logs/
+embedding/
+database/
+Video representation/
+__pycache__/
+
+# File types to ignore
+*.pt
+*.npy
+*.jpg
+*.png
+*.csv
+*.zip
+*.h5
+*.mp4
+face_id_counter.txt
+face_events_export.csv
+# Ignore folders
+venv/
+logs/
+embedding/
+database/
+__pycache__/
+Video representation/
+
+# Ignore files
+*.jpg
+*.png
+*.pt
+*.npy
+*.csv
+*.mp4
+*.zip
+*.h5
+face_id_counter.txt
+face_events_export.csv
